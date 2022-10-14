@@ -1,0 +1,13 @@
+.logo img{
+    width: 65px;
+}
+
+.redes i,
+.redes svg{
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.slider img{
+    height: 650px;
+}
